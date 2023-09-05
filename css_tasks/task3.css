@@ -1,0 +1,22 @@
+table{
+    border-spacing: 0px 0px;
+    width: 60%;
+    border: 1px solid #d0d0d08b
+}
+
+tr{
+    height:40px;
+}
+td,th{
+    padding-left: 10px
+}
+
+.head{
+    text-align: left;
+    background-color: #04a96d;
+    color: white;
+}
+
+.grey{
+    background-color: #d0d0d08b;
+}

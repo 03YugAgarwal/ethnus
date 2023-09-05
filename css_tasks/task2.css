@@ -1,0 +1,40 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+.v-nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+.v-nav {
+  width: 300px;
+  background-color: #add9e6;
+}
+.v-nav li {
+  padding: 5px 0px 5px 15px;
+}
+
+.v-nav .active {
+  background-color: orange;
+}
+
+.h-nav ul {
+  display: flex;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  background-color: rgb(202, 202, 202);
+}
+
+.h-nav li{
+  padding: 7px 20px;
+  border-right: 1px solid blue;
+}
+
+.h-nav .active{
+    background-color: grey;
+}

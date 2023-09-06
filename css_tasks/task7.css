@@ -1,0 +1,34 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #de2b3d;
+}
+
+center{
+    padding: 40px ;
+}
+
+form{
+    background-color: #711621;
+    width: 40%;
+    margin-top: 100px;
+
+    color: white;
+}
+
+input,textarea{
+    border: none;
+}
+
+tr,td{
+    padding: 10px;
+}
+
+button{
+    width: 100%;
+    border: none;
+    height: 30px;
+    font-weight: bold;
+    border-radius: 8px;
+}
